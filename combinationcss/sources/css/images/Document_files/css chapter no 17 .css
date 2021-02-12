@@ -1,0 +1,163 @@
+body{
+   background-color: white;
+   margin-bottom: none;
+ 
+
+}
+div.one{
+    background-color: rgb(55, 48, 50);
+width: 1350px;
+height: 200px;
+
+    
+}
+.image-1{
+    margin-top: 20px;
+}
+span{
+
+  margin-left: 30px;
+  font-size: 40px;
+  color: whitesmoke;
+}
+span.another{
+   
+    margin-left: 200px;
+    font-size: 20px;
+}
+div.two{
+    background-color: lightgrey;
+  height:30px;
+}
+.crruent{
+ margin-left: 40px;
+ margin-top: 10px;
+ color: black;
+ font-size: 20px;
+}
+
+.two-p{
+    margin-left: 40px;
+ margin-top: 10px;
+ font-size: 20px;
+}
+/*----images section----*/
+
+figure {
+    float: left;
+    width: 260px;
+    height: 230px;
+    padding: 5px;
+    margin: 20px;
+    border: 1px solid #eeeeee;
+    text-align: center;
+    
+   
+}
+
+    figcaption {
+        font-size: 90%;
+        text-align: center;
+        font-size: 25px;
+        color: white;
+    }
+ .teriyaki{
+
+  
+
+
+ }
+ /*---end images section---*/
+
+ /*------------------------*/
+
+ /*---start -bok-choy data--*/
+ .bok-choy-heading{
+ 
+   position: relative;
+   padding-top: 10px;
+ }
+.bok-choy-p{
+    margin-right: 60px;
+    font-size: 20px;
+
+
+}
+span#important{
+    font-size: 25px;
+    color: red;
+    display: block;
+  
+}
+h1.japnanes{
+    margin-left: 20px;
+
+}
+/*--end bok-choy data--*/
+
+
+/*--------------------------*/
+
+/*--- start teriyaki-data*/
+.teriyaki-heading{
+ top: 80%;
+   position: absolute;
+    margin-left: 310px;
+    
+}
+.teriyaki{
+    position: relative;
+}
+span.important-to{
+    font-size: 25px;
+    color: red;
+    display: block;
+    position: absolute;
+    top: 100%;
+}
+.images{
+    position: absolute;
+    top: -90%;
+    left: 5%;
+}
+.teriyaki-p{
+ 
+    margin-right: 60px;
+    font-size: 20px;
+}
+/*---end teriyaki-data--*/
+
+/*----------------------*/
+
+/*--start-sub bok choy data--*/
+
+
+
+.sub-paragraph-bok-choy{
+
+padding-left: 900px;
+position: relative;
+bottom: 200px;
+
+}
+.sub-heading-bok-choy{
+
+
+}
+  .sub-p-bok{
+     color: red;
+     font-size: 19px; 
+  }
+  .contact{
+      margin-left: 950px;
+    color: red;
+    position: absolute;
+    top: 82%;
+  }
+  .contact-sub{
+      
+    position: absolute;
+    top: 90%;
+    margin-left: 950px;
+  }
+   

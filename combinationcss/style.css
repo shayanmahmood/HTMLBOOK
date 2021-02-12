@@ -1,0 +1,169 @@
+.logo{
+    display: block;
+color: plum;
+
+text-shadow: 1px 1px 2px  blue;
+
+
+font-size: 50px;
+width: 100px;
+height: 150px;
+background-attachment: fixed;
+background-size: cover;
+padding-left: 500px;
+padding-right: 500px;
+margin-left: 150px;
+margin-right: 50px;
+padding-right: 70px;
+padding-left: 30px;
+float:center;
+padding-left: 400px;
+
+}
+.logo:hover{
+color: aqua;}
+body{
+    background-image: url("./images/dog.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    color: aqua;
+    
+}
+img{
+padding-left: 680px;
+padding-top: 5px;
+position: absolute;
+width: 80px;
+height: 120px;
+}
+
+.btn {
+    background: AQUA;
+    background-image: -webkit-linear-gradient(top, AQUA, BLUE);
+    background-image: -moz-linear-gradient(top, AQUA, BLUE);
+    background-image: -ms-linear-gradient(top, AQUA, BLUE);
+    background-image: -o-linear-gradient(top, AQUA, BLUE);
+    background-image: linear-gradient(to bottom, AQUA, BLUE);
+    -webkit-border-radius: 31;
+    -moz-border-radius: 31;
+    border-radius: 31px;
+    text-shadow: 4px 2px 3px WHITE;
+    -webkit-box-shadow: 5px 2px 3px BLACK;
+    -moz-box-shadow: 5px 2px 3px BLACK;
+    box-shadow: 5px 2px 3px BLACK;
+    font-family: Georgia;
+    color: AQUA;
+    font-size: 31px;
+    padding: 10px 20px 10px 20px;
+    border: solid BLUE 3px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: YELLOW;
+    background-image: -webkit-linear-gradient(top, YELLOW, ORANGE);
+    background-image: -moz-linear-gradient(top, YELLOW, ORANGE);
+    background-image: -ms-linear-gradient(top, YELLOW, ORANGE);
+    background-image: -o-linear-gradient(top, YELLOW, ORANGE);
+    background-image: linear-gradient(to bottom, YELLOW, ORANGE);
+    text-decoration: none;
+  }
+  .LABEL{
+      font-size: 70px;
+      color: royalblue;
+  }
+  .LABEL:hover{
+      color: crimson;
+  }
+ .html{
+     position: relative;
+ }
+ .btn1 {
+    background: YELLOW;
+    background-image: -webkit-linear-gradient(top, YELLOW, ORANGE);
+    background-image: -moz-linear-gradient(top, YELLOW, ORANGE);
+    background-image: -ms-linear-gradient(top, YELLOW, ORANGE);
+    background-image: -o-linear-gradient(top, YELLOW, ORANGE);
+    background-image: linear-gradient(to bottom, YELLOW, ORANGE);
+    -webkit-border-radius: 34;
+    -moz-border-radius: 34;
+    border-radius: 34px;
+    text-shadow: 6px 3px 3px BLACK;
+    -webkit-box-shadow: 5px 3px 3px SKYBLUE;
+    -moz-box-shadow: 5px 3px 3px SKYBLUE;
+    box-shadow: 5px 3px 3px SKYBLUE;
+    font-family: Georgia;
+    color: RED;
+    font-size: 31px;
+    padding: 10px 20px 10px 20px;
+    border: solid SKYBLUE 3px;
+    text-decoration: none;
+  }
+  
+  .btn1:hover {
+    background: GREEN;
+    background-image: -webkit-linear-gradient(top, GREEN, PINK);
+    background-image: -moz-linear-gradient(top, GREEN, PINK);
+    background-image: -ms-linear-gradient(top, GREEN, PINK);
+    background-image: -o-linear-gradient(top, GREEN, PINK);
+    background-image: linear-gradient(to bottom, GREEN, PINK);
+    text-decoration: none;
+  }
+  .vv{
+
+      background-image: url("./images/B55.jpg");
+      background-attachment: fixed;
+      background-size: cover;
+      width: 1250PX;
+      height: 1700PX;
+
+  }
+  .S{
+      width: 200PX;
+      height: 300PX;
+  }
+  .S:hover{
+     border-color: solid black;
+   
+  }
+  .btns {
+    background: orange;
+    background-image: -webkit-linear-gradient(top, orange, skyblue);
+    background-image: -moz-linear-gradient(top, orange, skyblue);
+    background-image: -ms-linear-gradient(top, orange, skyblue);
+    background-image: -o-linear-gradient(top, orange, skyblue);
+    background-image: linear-gradient(to bottom, orange, skyblue);
+    -webkit-border-radius: 34;
+    -moz-border-radius: 34;
+    border-radius: 34px;
+    text-shadow: 9px 4px 3px white;
+    -webkit-box-shadow: 5px 3px 3px green;
+    -moz-box-shadow: 5px 3px 3px green;
+    box-shadow: 5px 3px 3px green;
+    font-family: Arial;
+    color: black;
+    font-size: 35px;
+    padding: 10px 20px 10px 20px;
+    border: solid SKYBLUE 3px;
+    text-decoration: none;
+  }
+  
+  .btns:hover {
+    background: pink;
+    background-image: -webkit-linear-gradient(top, pink, purple);
+    background-image: -moz-linear-gradient(top, pink, purple);
+    background-image: -ms-linear-gradient(top, pink, purple);
+    background-image: -o-linear-gradient(top, pink, purple);
+    background-image: linear-gradient(to bottom, pink, purple);
+    text-decoration: none;
+  }
+  .H{
+       font-family: 'Sansita Swashed', cursive;
+    font-size: 65PX;
+
+  }
+  .H:hover{
+      color: whitesmoke;
+      font-size: 70PX;
+      font-family: 'Grenze Gotisch', cursive;
+  }
